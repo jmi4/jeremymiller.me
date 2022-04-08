@@ -73,7 +73,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-linkedin
-          url: https://www.linkedin.com/in/jeremy-miller-31162949/
+          url: https://www.linkedin.com/in/jmi3/
         - icon: fab fa-github
           url: https://github.com/som3guy
       # customIcons:
@@ -200,7 +200,7 @@ params:
     recentPosts: false
     socialNetworks:
       github: https://github.com/som3guy
-      linkedin: https://www.linkedin.com/in/jeremy-miller-31162949/
+      linkedin: https://www.linkedin.com/in/jmi3/
       # twitter: https://twitter.com
       # instagram: https://instagram.com
       # facebook: https://facebook.com
