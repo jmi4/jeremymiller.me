@@ -85,7 +85,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: '/images/me.png'
+    image: "/me.png"
     content: |-
       I am a system engineer with a passion for monitoring. I have a background in computer science, and I have a strong interest monitoring and security. I am currently working as a system engineer II at [Cerner](https://cerner.com) in Kansas City, MO. 
       
