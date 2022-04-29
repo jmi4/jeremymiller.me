@@ -176,8 +176,8 @@ params:
     enable: true
     items:
       - title: Splunk Certified Admin
-        content: Credential ID Cert-338595 Credly link coming soon!
-        url: https://www.splunk.com/en_us/training/certification-track/splunk-enterprise-certified-admin.html
+        content: Credential ID Cert-338595
+        url: https://www.credly.com/badges/6cd63e9b-610f-4d89-b6a0-6187f3d03566/public_url
       - title: Splunk Certified Power User
         content: Credential ID Cert-269090
         url: https://www.credly.com/badges/5adcb8cf-755e-4231-bec9-37f9b9aa3297/public_url
