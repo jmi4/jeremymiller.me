@@ -175,6 +175,9 @@ params:
   achievements:
     enable: true
     items:
+      - title: CompTIA Security + 
+        content: Credential ID C68N9KNH8HQ41B3W
+        url: https://www.credly.com/badges/561d7f65-9626-40f7-b092-94e86e4aa0a6/public_url
       - title: Splunk Certified Admin
         content: Credential ID Cert-338595
         url: https://www.credly.com/badges/6cd63e9b-610f-4d89-b6a0-6187f3d03566/public_url
