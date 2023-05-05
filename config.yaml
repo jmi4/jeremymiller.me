@@ -106,22 +106,30 @@ params:
     enable: true
     items:
       - job: "System Engineer II"
-        company: "Cerner"
-        companyUrl: "https://cerner.com"
+        company: "Oracle / Cerner"
+        companyUrl: "https://oracle.com"
         date: "Aug 2014 - present"
         content: |
-          I am currently working as a system engineer at [Cerner](https://cerner.com) in Kansas City, MO. I have done a lot and grown quite a bit working here on projects and team including:
+          I am currently working as a system engineer II at [Oracle/Cerner](https://oracle.com) remotely. I have done a lot and grown quite a bit working here on projects and team including:
           - Splunk team
             - Mitigating vulnerabilities
             - Run projects
-            - Assisting senior and junior team members accomplish task
+            - Assisting senior and junior team members accomplish tasks
+            - Support the numerous environments for clients internally and across the globe
           - Zabbix team
-            - Determined needed infrastructure
+            - Determine and implement needed infrastructure
             - Determine and establish best practices
           - Ruby and bash scripting
+          - Create, update, and maintain F5 loadbalancer configs and certificates
+          - Writing, updating, maintaining chef cookbooks
+          - Running ansible playbooks
+          - Utilizing git and enterprise github
+          - Automate what we can and reduce existing technical debt when I can
           - Utilize Chef to standardize deployments and keep all configuration in source control
-          - Work internally with teamates as well as will other teams to complete projects or resolve issues.
-          - Work as a primary on call in a rotation as well as 24/7 on call for solutions I am a subject matter expert in. 
+          - Work internally with teamates as well as will other teams to complete projects or resolve issues
+          - Work as a primary on call in a rotation as well as 24/7 on call for solutions I am a subject matter expert in
+          - Utilze JIRA for issue tracking. 
+          - Really what I do is figure out what to do even if no one has the knowledge to proceed. I figure it out and get it done. The Internet usually has all the pieces of how to get something done, I just put the puzzle together at the end of the day to deliver what is required of our team at the time.
       
       - job: "Linux Support Analyst"
         company: "A2 Hosting"
