@@ -106,11 +106,11 @@ params:
     enable: true
     items:
       - job: "System Engineer II"
-        company: "Oracle / Cerner"
+        company: "Oracle Cerner"
         companyUrl: "https://oracle.com"
         date: "Aug 2014 - present"
         content: |
-          I am currently working as a system engineer II at [Oracle/Cerner](https://oracle.com) remotely. I have done a lot and grown quite a bit working here on projects and team including:
+          I am currently working as a system engineer II at [Oracle Cerner](https://oracle.com) remotely. I have done a lot and grown quite a bit working here on projects and team including:
           - Splunk team
             - Mitigating vulnerabilities
             - Run projects
