@@ -202,6 +202,9 @@ params:
       - title: Splunk Certified User
         content: Credential ID Cert-269288
         url: https://www.credly.com/badges/fc22eb77-449e-45e0-b2da-358bb0c91cac/public_url
+      - title: Oracle Cloud Infrastructure 2023 Certified Foundations Associate
+        content: Certified Foundations Associate
+        url: https://catalog-education.oracle.com/pls/apex/f?p=1010:2:112493365986022::NO:RP:P2_AUTHCODE,P2_AUTH_KEY,P2_ARG_INVALID_CNT:iu185016pZ84Q,ytjVJ184944KxYK2415XEDr,0
       - title: Zabbix Certified Professional
         content: Credential ID CP1510-06
         url: https://www.zabbix.com/training_professional
