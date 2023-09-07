@@ -14,7 +14,7 @@ markup:
 
 params:
   title: "Jeremy Miller"
-  description: Text about my cool site
+  description: Personal site
   favicon: "/jm_logo.png"
 
   theme:
@@ -62,7 +62,7 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Jeremy."
+    title: "Jeremy"
     subtitle: "I am a system engineer."
     content: "I really fight an onslaught of constantly evolving work load with the idea of automation and removal of and prevention of accrual of technical debt."
     image: /images/hero.svg
@@ -87,9 +87,11 @@ params:
     title: "About Me"
     image: "/me.png"
     content: |-
-      I am a system engineer with a passion for monitoring. I have a background in computer science, and I have a strong interest monitoring and security. I am currently working as a system engineer II at [Cerner](https://cerner.com) in Kansas City, MO. 
-      
-      I am currently working on a Splunk team in Cerner that monitors a large amount of the logs our company generates and provide Splunk as a SaaS.
+      I am a system engineer with a background in computer science, and I am passionate about monitoring and security. I am currently working as a system engineer II at [Oracle](https://Oracle.com) remotely from Ohio. 
+
+      I work with an application built on Splunk to monitor critical health data. The application helps me create reports from observable metrics to report on any objectives we want to achieve. 
+
+      Through my work, I have been able to increase our understanding of how our users interact with the system. For instance, some of the reports include graphs on whether the user is searching for complete data based on our service-level objectives or not. Additionally, I can track how often users are failing to successfully log in to a session or how quickly reports are completing.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -111,6 +113,11 @@ params:
         date: "Aug 2014 - present"
         content: |
           I am currently working as a system engineer II at [Oracle Cerner](https://oracle.com) remotely. I have done a lot and grown quite a bit working here on projects and team including:
+          - Oracle Health Privacy Analytics
+            - Manage Federal Environment
+            - Create and report on observibility metrics
+            - Work with client teams to ensure data is reporting in
+            - Identify gaps or issues and create solutions
           - Splunk team
             - Mitigating vulnerabilities
             - Run projects
