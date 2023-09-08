@@ -196,6 +196,9 @@ params:
       - title: Splunk Certified Admin
         content: Credential ID Cert-338595
         url: https://www.credly.com/badges/6cd63e9b-610f-4d89-b6a0-6187f3d03566/public_url
+      - title: TryHackme
+        img: https://tryhackme-badges.s3.amazonaws.com/som3guy.png
+        url: https://tryhackme.com/p/som3guy
       - title: Splunk Certified Power User
         content: Credential ID Cert-269090
         url: https://www.credly.com/badges/5adcb8cf-755e-4231-bec9-37f9b9aa3297/public_url
